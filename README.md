@@ -7,6 +7,7 @@
 </p>
 
 > Get all the answers for the HigherLowerGame here with this api!
+
 > Oh, and you'll have to set all the stuff yourself so learn Node & JS & Mongo and then read the code and figure it out.
 
 ## Installing the Requirements (Excluding MongoDB)

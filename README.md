@@ -7,23 +7,12 @@
 </p>
 
 > Get all the answers for the HigherLowerGame here with this api!
+> Oh, and you'll have to set all the stuff yourself so learn Node & JS & Mongo and then read the code and figure it out.
 
-## Install
+## Installing the Requirements (Excluding MongoDB)
 
 ```sh
 npm install
-```
-
-## Usage
-
-```sh
-node .
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
@@ -36,6 +25,3 @@ npm run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

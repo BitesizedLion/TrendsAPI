@@ -18,10 +18,9 @@ npm install
 
 ## Author
 
-👤 **Ufo#8033**
+👤 **BitesizedLion**
 
 * Twitter: [@ComputeOverload](https://twitter.com/ComputeOverload)
-* Github: [@BitesizedLion](https://github.com/BitesizedLion)
 
 ## Show your support
 
